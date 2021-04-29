@@ -54,7 +54,7 @@ namespace HelloWorld
             //string password = uxPassword.Password;
             uxName.Clear();
             uxPassword.Clear();
-            MessageBox.Show("Login Attempted. Username and Password Cleared");
+            MessageBox.Show("HELLO WORLD! Username and Password Cleared");
         }
 
     }
